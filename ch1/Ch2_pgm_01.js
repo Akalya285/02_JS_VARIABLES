@@ -1,10 +1,10 @@
 // Declaring a variable
 
-var score;
+var score
 
 /* Further Adventures
  *
- * 1) Delete the semicolon at after the word score.
+ * 1) Delete the semicolon after the word score.
  *    JS Bin should complain and show an error message.
  *    Take a look at the message.
  *
@@ -14,3 +14,9 @@ var score;
  * 3) Declare two more variables.
  *
  */
+
+var score;
+
+/* 3) Declare two more variables */
+var playerName;
+var level;
